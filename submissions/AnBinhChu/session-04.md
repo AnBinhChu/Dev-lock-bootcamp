@@ -31,6 +31,7 @@ How Blockchain Works
    * Nếu gian lận -> chịu phạt (slashing).
 + Đặc điểm: Dùng động lực kinh tế để thay thế cho cuộc đua tiêu thụ điện.
 - So sánh PoW và PoS:
+
 | Tiêu chí | Proof of Work (PoW) | Proof of Stake (PoS) |
 | :--- | :--- | :--- |
 | **Tài nguyên** | Điện & máy đào | Coin ký quỹ |
@@ -53,6 +54,7 @@ How Blockchain Works
 - Account - Based: Giống số dư tài khoản ngân hàng. Trạng thái được cập nhật trực tiếp.
 - UTXO: Giống các tờ tiền chưa tiêu. Giao dịch dùng đầu vào, tạo đầu ra mới.
 5. Mô hình triển khai
+
 | Tiêu chí | Public | Private | Permissioned |
 | :--- | :--- | :--- | :--- |
 | **Đặc điểm chung** | Mở cho mọi người | Một tổ chức kiểm soát | Liên minh cùng quản trị |
